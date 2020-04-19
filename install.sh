@@ -15,3 +15,5 @@ USERNAME=`whoami`
 sed -i "s/my_username/${USERNAME}/g" ~/.ConkyClicky/cclicky.sh
 
 echo DONE.
+
+echo 1.
